@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://bkd4rtyq0rrtd"]
+
+[ext_resource type="Texture2D" uid="uid://ck1cx1pfls1p5" path="res://assets/obstacles/Torch_Purple.png" id="1_dulr8"]
+[ext_resource type="Script" path="res://scenes/TorchPurple.cs" id="2_ysfij"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_vg0tr"]
+radius = 30.8333
+height = 128.0
+
+[node name="Sprite2D" type="CharacterBody2D"]
+position = Vector2(32, 0)
+scale = Vector2(1.03784, 1)
+script = ExtResource("2_ysfij")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_vg0tr")
+
+[node name="CharacterBody2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_dulr8")

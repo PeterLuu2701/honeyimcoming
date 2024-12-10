@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://cft10hibgmpt4"]
+
+[ext_resource type="Script" path="res://ObstacleSpawner.cs" id="1_cp0te"]
+[ext_resource type="PackedScene" uid="uid://bkd4rtyq0rrtd" path="res://scenes/torch_purple.tscn" id="2_1q7kb"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_cp0te")
+ObstacleScene = ExtResource("2_1q7kb")

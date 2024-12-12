@@ -1,0 +1,11 @@
+res://scenes/main.tscn
+res://resources/tiles.tres
+res://scenes/sheep.tscn
+res://scenes/SheepZigZag.tscn
+res://scenes/cha_demo.tscn
+res://scenes/ChaDemo.cs
+res://ObstacleSpawner.cs
+res://scenes/TorchPurple.cs
+res://scenes/Main.cs
+res://scenes/Sheep.cs
+res://scenes/SheepZigZag.cs

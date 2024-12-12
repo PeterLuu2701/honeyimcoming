@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqpVu3TUm55RcOlcH3hGJE07GOfGUED+aUD1A2LXHI3e7vCi5FMG0Vn9aZoYQFV6n4XBTeRhv34EU179xoOi0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teete\\Desktop\\godot_nattee\\honeyimcoming\\honeyimcoming\\HoneyImHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teete\\.nuget\\packages\\godot.sourcegenerators\\4.3.0\\godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "C:\\Users\\teete\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\teete\\.nuget\\packages\\godotsharpeditor\\4.3.0\\godotsharpeditor.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
